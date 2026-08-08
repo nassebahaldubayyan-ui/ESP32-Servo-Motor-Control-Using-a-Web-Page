@@ -144,7 +144,7 @@ Explore the interactive Wokwi simulation to view the complete circuit, inspect t
 
 ## Hardware Demonstration
 
-![Hardware Demonstration](hardware_demo.gif)
+![Hardware Demonstration](hardware_demo.GIF)
 
 The final project was implemented on a physical **ESP32 WEMOS D1 Mini**.
 
