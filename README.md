@@ -116,13 +116,13 @@ When the **Close** button is pressed:
 
 ### Wokwi Circuit
 
-![Wokwi Circuit](circuit_design.png)
+<img src="circuit_design.png" width="500">
 
 ---
 
 ### Circuit Animation
 
-![Circuit Animation](circuit-demo.gif)
+<img src="circuit-demo.gif" width="500">
 
 ---
 
@@ -144,7 +144,7 @@ Explore the interactive Wokwi simulation to view the complete circuit, inspect t
 
 ## Hardware Demonstration
 
-![Hardware Demonstration](hardware_demo.gif)
+<img src="hardware_demo.gif" width="500">
 
 The final project was implemented on a physical **ESP32 WEMOS D1 Mini**.
 
